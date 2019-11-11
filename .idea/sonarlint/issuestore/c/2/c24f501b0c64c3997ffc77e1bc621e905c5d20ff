@@ -1,0 +1,12 @@
+
+?squid:S16439"Use a StringBuilder instead.(öòûøÿÿÿÿ8²É•àå-
+:squid:S1643="Use a StringBuilder instead.(¶°Õ8³É•àå-
+:squid:S1643@"Use a StringBuilder instead.(Ù£†8³É•àå-
+:squid:S1643C"Use a StringBuilder instead.(å»š 8³É•àå-
+:squid:S1643F"Use a StringBuilder instead.(÷¦¬ó8³É•àå-
+Wsquid:S4973"9Use the "equals" method if value comparison was intended.(£·¥¸8³É•àå-
+rsquid:S00116"SRename this field "m_score1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¯úÏ8³É•àå-
+wsquid:S00116"SRename this field "m_score2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÒÙ¿üÿÿÿÿ8³É•àå-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(á§ í8³É•àå-
+\"squid:SwitchLastCaseIsDefaultCheck:""Add a default case to this switch.(¤’Ğ¯ıÿÿÿÿ8³É•àå-
+Msquid:S1068"/Remove this unused "player2Name" private field.(¹†¨í8³É•àå-
